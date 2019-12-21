@@ -1,0 +1,16 @@
+PODS:
+  - MathsFramework (1.0.0)
+
+DEPENDENCIES:
+  - MathsFramework (from `../MathsFramwork/`)
+
+EXTERNAL SOURCES:
+  MathsFramework:
+    :path: "../MathsFramwork/"
+
+SPEC CHECKSUMS:
+  MathsFramework: d1d51ab2bd7651483f97accdbd7e4a0fc2f8a975
+
+PODFILE CHECKSUM: fd8f9430b79c6b12f960e0a725ade8e4f76c6f58
+
+COCOAPODS: 1.7.5
